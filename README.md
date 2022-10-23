@@ -13,4 +13,8 @@ npm install -D tailwindcss postcss autoprefixer vite
 npx tailwindcss init
 ```
 
-To start the server `npm run start`
+To start the server
+
+```
+npm run start
+```
